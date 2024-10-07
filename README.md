@@ -1,6 +1,8 @@
 # Ex. No. 1.-SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
+## DATE: 07/10/2024
+### Name:MOHAMED AAKIF ASRAR S
+### Register Number: 212223240088
 
 ## AIM:
 
@@ -54,8 +56,7 @@
 
 
 
-### Name:jagadeesh P
-### Register Number: 212223230083
+
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
